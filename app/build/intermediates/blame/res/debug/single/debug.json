@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "F:\\LearningAndroid\\Project's\\AMPL\\app\\build\\intermediates\\res\\merged\\debug\\layout_name_lay.xml.flat",
+        "source": "F:\\LearningAndroid\\Project's\\AMPL\\app\\src\\main\\res\\layout\\name_lay.xml"
+    },
+    {
+        "merged": "F:\\LearningAndroid\\Project's\\AMPL\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "F:\\LearningAndroid\\Project's\\AMPL\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\LearningAndroid\\Project's\\AMPL\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "F:\\LearningAndroid\\Project's\\AMPL\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\LearningAndroid\\Project's\\AMPL\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_green.png.flat",
+        "source": "F:\\LearningAndroid\\Project's\\AMPL\\app\\src\\main\\res\\drawable-hdpi\\green.png"
+    },
+    {
+        "merged": "F:\\LearningAndroid\\Project's\\AMPL\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_black.png.flat",
+        "source": "F:\\LearningAndroid\\Project's\\AMPL\\app\\src\\main\\res\\drawable-hdpi\\black.png"
+    },
+    {
+        "merged": "F:\\LearningAndroid\\Project's\\AMPL\\app\\build\\intermediates\\res\\merged\\debug\\layout_pass.xml.flat",
+        "source": "F:\\LearningAndroid\\Project's\\AMPL\\app\\src\\main\\res\\layout\\pass.xml"
+    },
+    {
+        "merged": "F:\\LearningAndroid\\Project's\\AMPL\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_red.png.flat",
+        "source": "F:\\LearningAndroid\\Project's\\AMPL\\app\\src\\main\\res\\drawable-hdpi\\red.png"
+    },
+    {
+        "merged": "F:\\LearningAndroid\\Project's\\AMPL\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_yellow.png.flat",
+        "source": "F:\\LearningAndroid\\Project's\\AMPL\\app\\src\\main\\res\\drawable-hdpi\\yellow.png"
+    },
+    {
+        "merged": "F:\\LearningAndroid\\Project's\\AMPL\\app\\build\\intermediates\\res\\merged\\debug\\layout_home_lay.xml.flat",
+        "source": "F:\\LearningAndroid\\Project's\\AMPL\\app\\src\\main\\res\\layout\\home_lay.xml"
+    },
+    {
+        "merged": "F:\\LearningAndroid\\Project's\\AMPL\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_pink.png.flat",
+        "source": "F:\\LearningAndroid\\Project's\\AMPL\\app\\src\\main\\res\\drawable-hdpi\\pink.png"
+    },
+    {
+        "merged": "F:\\LearningAndroid\\Project's\\AMPL\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "F:\\LearningAndroid\\Project's\\AMPL\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "F:\\LearningAndroid\\Project's\\AMPL\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "F:\\LearningAndroid\\Project's\\AMPL\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\LearningAndroid\\Project's\\AMPL\\app\\build\\intermediates\\res\\merged\\debug\\layout_reg.xml.flat",
+        "source": "F:\\LearningAndroid\\Project's\\AMPL\\app\\src\\main\\res\\layout\\reg.xml"
+    },
+    {
+        "merged": "F:\\LearningAndroid\\Project's\\AMPL\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "F:\\LearningAndroid\\Project's\\AMPL\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\LearningAndroid\\Project's\\AMPL\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "F:\\LearningAndroid\\Project's\\AMPL\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\LearningAndroid\\Project's\\AMPL\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_back.jpg.flat",
+        "source": "F:\\LearningAndroid\\Project's\\AMPL\\app\\src\\main\\res\\drawable-hdpi\\back.jpg"
+    },
+    {
+        "merged": "F:\\LearningAndroid\\Project's\\AMPL\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_blue.png.flat",
+        "source": "F:\\LearningAndroid\\Project's\\AMPL\\app\\src\\main\\res\\drawable-hdpi\\blue.png"
+    }
+]
