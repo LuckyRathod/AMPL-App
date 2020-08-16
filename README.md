@@ -1,4 +1,4 @@
-<img src="\app\src\main\res\drawable-hdpi\green.png" align="left" height="50" width="50"/>
+<img src="/app/src/main/res/drawable-hdpi/green.png" align="left" height="50" width="50"/>
 
 # Advanced  Pattern Lock Based Authentication System
 ## Description
@@ -17,19 +17,19 @@
 
 - Login
 
-	Here user will enter the User-Id which was generated automatically at the time of registration in User-Id field. This Id gets 	         incremented by 1 when new user gets registered.
+	Here user will enter the User-Id which was generated automatically at the time of registration in User-Id field. This Id gets incremented by 1 when new user gets registered.
 
 ## Flow of App via Screenshots
 
 #### Screenshots
 
-<img src="\app\src\main\res\drawable-hdpi\image1.jpg" height="498" width="280"> <img src="\app\src\main\res\drawable-hdpi\image2.jpg" height="498" width="280">
-  <img src="\app\src\main\res\drawable-hdpi\image3.jpg" height="498" width="280">
-   <img src="\app\src\main\res\drawable-hdpi\image4.jpg" height="498" width="280"/>
-    <img src="\app\src\main\res\drawable-hdpi\image5.jpg" height="498" width="280"/>
-     <img src="\app\src\main\res\drawable-hdpi\image6.jpg" height="498" width="280"/>
-      <img src="\app\src\main\res\drawable-hdpi\image7.jpg" height="498" width="280"/>
-       <img src="\app\src\main\res\drawable-hdpi\image8.jpg" height="498" width="280"/>
+<img src="/app/src/main/res/drawable-hdpi/image1.jpg" height="498" width="280"> <img src="/app/src/main/res/drawable-hdpi/image2.jpg" height="498" width="280">
+  <img src="/app/src/main/res/drawable-hdpi/image3.jpg" height="498" width="280">
+   <img src="/app/src/main/res/drawable-hdpi/image4.jpg" height="498" width="280"/>
+    <img src="/app/src/main/res/drawable-hdpi/image5.jpg" height="498" width="280"/>
+     <img src="/app/src/main/res/drawable-hdpi/image6.jpg" height="498" width="280"/>
+      <img src="/app/src/main/res/drawable-hdpi/image7.jpg" height="498" width="280"/>
+       <img src="/app/src/main/res/drawable-hdpi/image8.jpg" height="498" width="280"/>
     
 
 ## Demo
